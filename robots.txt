@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gas.com.ug/sitemap.xml
